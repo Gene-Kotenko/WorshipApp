@@ -1,0 +1,56 @@
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\bin\Release\Worship.exe
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\bin\Release\Worship.pdb
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.fMain.resources
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.fNewSong.resources
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.Properties.Resources.resources
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.csproj.GenerateResource.Cache
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.exe
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.pdb
+H:\Gene\Service app\Worship\Worship\obj\x86\Release\Worship.exe
+H:\Gene\Service app\Worship\Worship\obj\x86\Release\Worship.pdb
+H:\Gene\Service app\Worship\Worship\bin\Release\Worship.exe
+H:\Gene\Service app\Worship\Worship\bin\Release\Worship.pdb
+H:\Gene\Service app\Worship\Worship\obj\x86\Release\Worship.fMain.resources
+H:\Gene\Service app\Worship\Worship\obj\x86\Release\Worship.fNewSong.resources
+H:\Gene\Service app\Worship\Worship\obj\x86\Release\Worship.Properties.Resources.resources
+H:\Gene\Service app\Worship\Worship\obj\x86\Release\Worship.csproj.GenerateResource.Cache
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.csprojResolveAssemblyReference.cache
+H:\Gene\Service app\R2\Service app\Worship\Worship\obj\x86\Release\Worship.exe
+H:\Gene\Service app\R2\Service app\Worship\Worship\obj\x86\Release\Worship.pdb
+C:\Users\Gene\Desktop\Work\Service app\Worship\Worship\obj\x86\Release\Worship.Temp.resources
+H:\Gene\Service app\R7\Service app\Worship\Worship\obj\x86\Release\Worship.exe
+H:\Gene\Service app\R7\Service app\Worship\Worship\obj\x86\Release\Worship.pdb
+H:\Gene\Service app\R7\Service app\Worship\Worship\bin\Release\Worship.exe
+H:\Gene\Service app\R7\Service app\Worship\Worship\bin\Release\Worship.pdb
+H:\Gene\Service app\R7\Service app\Worship\Worship\obj\x86\Release\Worship.csprojResolveAssemblyReference.cache
+H:\Gene\Service app\R7\Service app\Worship\Worship\obj\x86\Release\Worship.fMain.resources
+H:\Gene\Service app\R7\Service app\Worship\Worship\obj\x86\Release\Worship.fNewSong.resources
+H:\Gene\Service app\R7\Service app\Worship\Worship\obj\x86\Release\Worship.Properties.Resources.resources
+H:\Gene\Service app\R7\Service app\Worship\Worship\obj\x86\Release\Worship.csproj.GenerateResource.Cache
+H:\Gene\Service app\R8\Service app\Worship\Worship\obj\x86\Release\Worship.exe
+H:\Gene\Service app\R8\Service app\Worship\Worship\obj\x86\Release\Worship.pdb
+H:\Gene\Service app\R8\Service app\Worship\Worship\bin\Release\Worship.exe
+H:\Gene\Service app\R8\Service app\Worship\Worship\bin\Release\Worship.pdb
+H:\Gene\Service app\R8\Service app\Worship\Worship\obj\x86\Release\Worship.csprojResolveAssemblyReference.cache
+H:\Gene\Service app\R8\Service app\Worship\Worship\obj\x86\Release\Worship.fMain.resources
+H:\Gene\Service app\R8\Service app\Worship\Worship\obj\x86\Release\Worship.fNewSong.resources
+H:\Gene\Service app\R8\Service app\Worship\Worship\obj\x86\Release\Worship.Properties.Resources.resources
+H:\Gene\Service app\R8\Service app\Worship\Worship\obj\x86\Release\Worship.csproj.GenerateResource.Cache
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\obj\x86\Release\Worship.exe
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\obj\x86\Release\Worship.pdb
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\bin\Release\Worship.exe
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\bin\Release\Worship.pdb
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\obj\x86\Release\Worship.csprojResolveAssemblyReference.cache
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\obj\x86\Release\Worship.fMain.resources
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\obj\x86\Release\Worship.fNewSong.resources
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\obj\x86\Release\Worship.Properties.Resources.resources
+C:\Gene\My Library\C# Project Lib\Service app\R14 new way\Service app\Worship\Worship\obj\x86\Release\Worship.csproj.GenerateResource.Cache
+H:\Gene\Service app\R10\Service app\Worship\Worship\obj\x86\Release\Worship.exe
+H:\Gene\Service app\R10\Service app\Worship\Worship\obj\x86\Release\Worship.pdb
+H:\Gene\Service app\R10\Service app\Worship\Worship\bin\Release\Worship.exe
+H:\Gene\Service app\R10\Service app\Worship\Worship\bin\Release\Worship.pdb
+H:\Gene\Service app\R10\Service app\Worship\Worship\obj\x86\Release\Worship.csprojResolveAssemblyReference.cache
+H:\Gene\Service app\R10\Service app\Worship\Worship\obj\x86\Release\Worship.fMain.resources
+H:\Gene\Service app\R10\Service app\Worship\Worship\obj\x86\Release\Worship.fNewSong.resources
+H:\Gene\Service app\R10\Service app\Worship\Worship\obj\x86\Release\Worship.Properties.Resources.resources
+H:\Gene\Service app\R10\Service app\Worship\Worship\obj\x86\Release\Worship.csproj.GenerateResource.Cache
